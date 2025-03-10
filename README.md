@@ -22,6 +22,7 @@
 ## Array
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/gyuwseong/leet-code/tree/master/0735-asteroid-collision) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/gyuwseong/leet-code/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 ## Hash Table
 |  |
@@ -38,9 +39,11 @@
 ## Stack
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/gyuwseong/leet-code/tree/master/0735-asteroid-collision) |
 | [2470-removing-stars-from-a-string](https://github.com/gyuwseong/leet-code/tree/master/2470-removing-stars-from-a-string) |
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/gyuwseong/leet-code/tree/master/0735-asteroid-collision) |
 | [2470-removing-stars-from-a-string](https://github.com/gyuwseong/leet-code/tree/master/2470-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
