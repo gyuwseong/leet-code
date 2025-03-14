@@ -10,6 +10,7 @@
 ## String
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/gyuwseong/leet-code/tree/master/0071-simplify-path) |
 | [0151-reverse-words-in-a-string](https://github.com/gyuwseong/leet-code/tree/master/0151-reverse-words-in-a-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/gyuwseong/leet-code/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1777-determine-if-two-strings-are-close](https://github.com/gyuwseong/leet-code/tree/master/1777-determine-if-two-strings-are-close) |
@@ -39,6 +40,7 @@
 ## Stack
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/gyuwseong/leet-code/tree/master/0071-simplify-path) |
 | [0735-asteroid-collision](https://github.com/gyuwseong/leet-code/tree/master/0735-asteroid-collision) |
 | [2470-removing-stars-from-a-string](https://github.com/gyuwseong/leet-code/tree/master/2470-removing-stars-from-a-string) |
 ## Simulation
