@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/gyuwseong/leet-code/tree/master/0151-reverse-words-in-a-string) |
+| [0189-rotate-array](https://github.com/gyuwseong/leet-code/tree/master/0189-rotate-array) |
 | [1894-merge-strings-alternately](https://github.com/gyuwseong/leet-code/tree/master/1894-merge-strings-alternately) |
 ## String
 |  |
@@ -19,10 +20,12 @@
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/gyuwseong/leet-code/tree/master/0189-rotate-array) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/gyuwseong/leet-code/tree/master/1146-greatest-common-divisor-of-strings) |
 ## Array
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/gyuwseong/leet-code/tree/master/0189-rotate-array) |
 | [0735-asteroid-collision](https://github.com/gyuwseong/leet-code/tree/master/0735-asteroid-collision) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/gyuwseong/leet-code/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 ## Hash Table
