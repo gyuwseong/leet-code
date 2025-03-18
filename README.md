@@ -27,6 +27,7 @@
 | ------- |
 | [0189-rotate-array](https://github.com/gyuwseong/leet-code/tree/master/0189-rotate-array) |
 | [0735-asteroid-collision](https://github.com/gyuwseong/leet-code/tree/master/0735-asteroid-collision) |
+| [0792-binary-search](https://github.com/gyuwseong/leet-code/tree/master/0792-binary-search) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/gyuwseong/leet-code/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 ## Hash Table
 |  |
@@ -51,4 +52,8 @@
 | ------- |
 | [0735-asteroid-collision](https://github.com/gyuwseong/leet-code/tree/master/0735-asteroid-collision) |
 | [2470-removing-stars-from-a-string](https://github.com/gyuwseong/leet-code/tree/master/2470-removing-stars-from-a-string) |
+## Binary Search
+|  |
+| ------- |
+| [0792-binary-search](https://github.com/gyuwseong/leet-code/tree/master/0792-binary-search) |
 <!---LeetCode Topics End-->
