@@ -27,6 +27,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/gyuwseong/leet-code/tree/master/0053-maximum-subarray) |
 | [0189-rotate-array](https://github.com/gyuwseong/leet-code/tree/master/0189-rotate-array) |
+| [0215-kth-largest-element-in-an-array](https://github.com/gyuwseong/leet-code/tree/master/0215-kth-largest-element-in-an-array) |
 | [0735-asteroid-collision](https://github.com/gyuwseong/leet-code/tree/master/0735-asteroid-collision) |
 | [0792-binary-search](https://github.com/gyuwseong/leet-code/tree/master/0792-binary-search) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/gyuwseong/leet-code/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -37,6 +38,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/gyuwseong/leet-code/tree/master/0215-kth-largest-element-in-an-array) |
 | [1777-determine-if-two-strings-are-close](https://github.com/gyuwseong/leet-code/tree/master/1777-determine-if-two-strings-are-close) |
 ## Counting
 |  |
@@ -61,8 +63,17 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/gyuwseong/leet-code/tree/master/0053-maximum-subarray) |
+| [0215-kth-largest-element-in-an-array](https://github.com/gyuwseong/leet-code/tree/master/0215-kth-largest-element-in-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/gyuwseong/leet-code/tree/master/0053-maximum-subarray) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/gyuwseong/leet-code/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/gyuwseong/leet-code/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
