@@ -1,20 +1,22 @@
 class Solution:
     def predictPartyVictory(self, senate: str) -> str:
-        global s
-        if len(senate) < 2:
-            s = senate[0]
-        else:
-            q = collections.deque(senate)
+        start = len(senate)
+        radiant = collections.deque()
+        dire = collections.deque()
 
-            while len(q) > 1:
-                s = q.popleft()
-                for i in range(len(q)):
-                    if s != q[i]:
-                        del q[i]
-                        q.append(s)
-                        break
+        for i, s in enumerate(senate):
+            if s == "R":
+                radiant.append(i)
+            else:
+                dire.append(i)
 
-        if s == "R":
-            return "Radiant"
-        else:
-            return "Dire"
+        while radiant and dire:
+            r = radiant.popleft()
+            d = dire.popleft()
+
+            if r < d:
+                radiant.append(r + start)
+            else:
+                dire.append(d + start)
+
+        return "Radiant" if radiant else "Dire"
