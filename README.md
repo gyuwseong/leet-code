@@ -13,6 +13,7 @@
 | ------- |
 | [0071-simplify-path](https://github.com/gyuwseong/leet-code/tree/master/0071-simplify-path) |
 | [0151-reverse-words-in-a-string](https://github.com/gyuwseong/leet-code/tree/master/0151-reverse-words-in-a-string) |
+| [0649-dota2-senate](https://github.com/gyuwseong/leet-code/tree/master/0649-dota2-senate) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/gyuwseong/leet-code/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1777-determine-if-two-strings-are-close](https://github.com/gyuwseong/leet-code/tree/master/1777-determine-if-two-strings-are-close) |
 | [1894-merge-strings-alternately](https://github.com/gyuwseong/leet-code/tree/master/1894-merge-strings-alternately) |
@@ -76,4 +77,12 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/gyuwseong/leet-code/tree/master/0215-kth-largest-element-in-an-array) |
+## Greedy
+|  |
+| ------- |
+| [0649-dota2-senate](https://github.com/gyuwseong/leet-code/tree/master/0649-dota2-senate) |
+## Queue
+|  |
+| ------- |
+| [0649-dota2-senate](https://github.com/gyuwseong/leet-code/tree/master/0649-dota2-senate) |
 <!---LeetCode Topics End-->
