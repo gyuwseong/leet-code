@@ -26,6 +26,7 @@
 ## Array
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/gyuwseong/leet-code/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0053-maximum-subarray](https://github.com/gyuwseong/leet-code/tree/master/0053-maximum-subarray) |
 | [0189-rotate-array](https://github.com/gyuwseong/leet-code/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/gyuwseong/leet-code/tree/master/0215-kth-largest-element-in-an-array) |
@@ -59,6 +60,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/gyuwseong/leet-code/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0792-binary-search](https://github.com/gyuwseong/leet-code/tree/master/0792-binary-search) |
 ## Divide and Conquer
 |  |
