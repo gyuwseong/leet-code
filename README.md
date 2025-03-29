@@ -28,6 +28,7 @@
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/gyuwseong/leet-code/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0053-maximum-subarray](https://github.com/gyuwseong/leet-code/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/gyuwseong/leet-code/tree/master/0055-jump-game) |
 | [0189-rotate-array](https://github.com/gyuwseong/leet-code/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/gyuwseong/leet-code/tree/master/0215-kth-largest-element-in-an-array) |
 | [0735-asteroid-collision](https://github.com/gyuwseong/leet-code/tree/master/0735-asteroid-collision) |
@@ -71,6 +72,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/gyuwseong/leet-code/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/gyuwseong/leet-code/tree/master/0055-jump-game) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -82,6 +84,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/gyuwseong/leet-code/tree/master/0055-jump-game) |
 | [0649-dota2-senate](https://github.com/gyuwseong/leet-code/tree/master/0649-dota2-senate) |
 ## Queue
 |  |
