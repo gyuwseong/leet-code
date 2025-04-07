@@ -33,6 +33,7 @@
 | [0088-merge-sorted-array](https://github.com/gyuwseong/leet-code/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/gyuwseong/leet-code/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/gyuwseong/leet-code/tree/master/0215-kth-largest-element-in-an-array) |
+| [0274-h-index](https://github.com/gyuwseong/leet-code/tree/master/0274-h-index) |
 | [0735-asteroid-collision](https://github.com/gyuwseong/leet-code/tree/master/0735-asteroid-collision) |
 | [0792-binary-search](https://github.com/gyuwseong/leet-code/tree/master/0792-binary-search) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/gyuwseong/leet-code/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -45,6 +46,7 @@
 | ------- |
 | [0088-merge-sorted-array](https://github.com/gyuwseong/leet-code/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/gyuwseong/leet-code/tree/master/0215-kth-largest-element-in-an-array) |
+| [0274-h-index](https://github.com/gyuwseong/leet-code/tree/master/0274-h-index) |
 | [1777-determine-if-two-strings-are-close](https://github.com/gyuwseong/leet-code/tree/master/1777-determine-if-two-strings-are-close) |
 ## Counting
 |  |
@@ -93,4 +95,8 @@
 |  |
 | ------- |
 | [0649-dota2-senate](https://github.com/gyuwseong/leet-code/tree/master/0649-dota2-senate) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/gyuwseong/leet-code/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
