@@ -31,6 +31,7 @@
 | [0053-maximum-subarray](https://github.com/gyuwseong/leet-code/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/gyuwseong/leet-code/tree/master/0055-jump-game) |
 | [0088-merge-sorted-array](https://github.com/gyuwseong/leet-code/tree/master/0088-merge-sorted-array) |
+| [0128-longest-consecutive-sequence](https://github.com/gyuwseong/leet-code/tree/master/0128-longest-consecutive-sequence) |
 | [0189-rotate-array](https://github.com/gyuwseong/leet-code/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/gyuwseong/leet-code/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/gyuwseong/leet-code/tree/master/0215-kth-largest-element-in-an-array) |
@@ -41,6 +42,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/gyuwseong/leet-code/tree/master/0128-longest-consecutive-sequence) |
 | [1777-determine-if-two-strings-are-close](https://github.com/gyuwseong/leet-code/tree/master/1777-determine-if-two-strings-are-close) |
 ## Sorting
 |  |
@@ -109,4 +111,8 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/gyuwseong/leet-code/tree/master/0209-minimum-size-subarray-sum) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/gyuwseong/leet-code/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
