@@ -32,6 +32,7 @@
 | [0055-jump-game](https://github.com/gyuwseong/leet-code/tree/master/0055-jump-game) |
 | [0088-merge-sorted-array](https://github.com/gyuwseong/leet-code/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/gyuwseong/leet-code/tree/master/0128-longest-consecutive-sequence) |
+| [0169-majority-element](https://github.com/gyuwseong/leet-code/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/gyuwseong/leet-code/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/gyuwseong/leet-code/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/gyuwseong/leet-code/tree/master/0215-kth-largest-element-in-an-array) |
@@ -43,17 +44,20 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/gyuwseong/leet-code/tree/master/0128-longest-consecutive-sequence) |
+| [0169-majority-element](https://github.com/gyuwseong/leet-code/tree/master/0169-majority-element) |
 | [1777-determine-if-two-strings-are-close](https://github.com/gyuwseong/leet-code/tree/master/1777-determine-if-two-strings-are-close) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/gyuwseong/leet-code/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/gyuwseong/leet-code/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/gyuwseong/leet-code/tree/master/0215-kth-largest-element-in-an-array) |
 | [0274-h-index](https://github.com/gyuwseong/leet-code/tree/master/0274-h-index) |
 | [1777-determine-if-two-strings-are-close](https://github.com/gyuwseong/leet-code/tree/master/1777-determine-if-two-strings-are-close) |
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/gyuwseong/leet-code/tree/master/0169-majority-element) |
 | [1777-determine-if-two-strings-are-close](https://github.com/gyuwseong/leet-code/tree/master/1777-determine-if-two-strings-are-close) |
 ## Stack
 |  |
@@ -76,6 +80,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/gyuwseong/leet-code/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/gyuwseong/leet-code/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/gyuwseong/leet-code/tree/master/0215-kth-largest-element-in-an-array) |
 ## Dynamic Programming
 |  |
