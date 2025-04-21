@@ -8,12 +8,14 @@
 | [0088-merge-sorted-array](https://github.com/gyuwseong/leet-code/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/gyuwseong/leet-code/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/gyuwseong/leet-code/tree/master/0189-rotate-array) |
+| [0392-is-subsequence](https://github.com/gyuwseong/leet-code/tree/master/0392-is-subsequence) |
 | [1894-merge-strings-alternately](https://github.com/gyuwseong/leet-code/tree/master/1894-merge-strings-alternately) |
 ## String
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/gyuwseong/leet-code/tree/master/0071-simplify-path) |
 | [0151-reverse-words-in-a-string](https://github.com/gyuwseong/leet-code/tree/master/0151-reverse-words-in-a-string) |
+| [0392-is-subsequence](https://github.com/gyuwseong/leet-code/tree/master/0392-is-subsequence) |
 | [0649-dota2-senate](https://github.com/gyuwseong/leet-code/tree/master/0649-dota2-senate) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/gyuwseong/leet-code/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1777-determine-if-two-strings-are-close](https://github.com/gyuwseong/leet-code/tree/master/1777-determine-if-two-strings-are-close) |
@@ -87,6 +89,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/gyuwseong/leet-code/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/gyuwseong/leet-code/tree/master/0055-jump-game) |
+| [0392-is-subsequence](https://github.com/gyuwseong/leet-code/tree/master/0392-is-subsequence) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
