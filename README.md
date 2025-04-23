@@ -24,6 +24,7 @@
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/gyuwseong/leet-code/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/gyuwseong/leet-code/tree/master/0189-rotate-array) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/gyuwseong/leet-code/tree/master/1146-greatest-common-divisor-of-strings) |
 ## Array
@@ -89,6 +90,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/gyuwseong/leet-code/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/gyuwseong/leet-code/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/gyuwseong/leet-code/tree/master/0070-climbing-stairs) |
 | [0392-is-subsequence](https://github.com/gyuwseong/leet-code/tree/master/0392-is-subsequence) |
 ## Heap (Priority Queue)
 |  |
@@ -123,4 +125,8 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/gyuwseong/leet-code/tree/master/0128-longest-consecutive-sequence) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/gyuwseong/leet-code/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
